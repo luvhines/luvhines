@@ -1,7 +1,8 @@
 ### Hi there 👋
-<!--
 
-![Alt text](code-matrix.gif?raw=true "Title")
+![Alt text](programacion-2-e1551291144973.jpgraw=true "Title")
+
+<!--
 **luvhines/luvhines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
